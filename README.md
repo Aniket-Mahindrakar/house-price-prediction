@@ -5,4 +5,4 @@
   <li>Adopts data analysis concepts for exploration, cleaning, transformation and visualization.
 </ol>
 
-<h2>Guidelines:</h2>Run the <b><i>kernel.pynb</i></b> file present in the <b><i>notebook</i></b> directory using <b><i>jupyter notebook</i></b>.
+<h2>Guidelines:</h2>Run the <b><i>kernel.ipynb</i></b> file present in the <b><i>notebook</i></b> directory using <b><i>jupyter notebook</i></b>.
